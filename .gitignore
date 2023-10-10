@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+testing/node_modules
+testing/backend/node_modules
